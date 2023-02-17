@@ -26,7 +26,7 @@ dataset$Purchased <- factor(
 
 
 # Splitting the dataset into the training and test set
-'install.packages("caTools")'
+# install.packages("caTools")
 library(caTools)
 split <- sample.split(dataset$Purchased, 0.8)
 training_set <- subset(dataset, split == TRUE)
