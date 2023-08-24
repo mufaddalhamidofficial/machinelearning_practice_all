@@ -1,0 +1,118 @@
+[
+  {
+    "input": "Address \n   Rajam\nStaff , Kottar Postoffice \nKambolam Road, \nNear Railway station road \nKottar 629002\nKanniyakumari\nTamilanaadu\n 8667556412\n\nFrom\nSS jewellery collection\n8884667162",
+    "output": "Mob - 8667556412\nTo - Rajam\nStaff , Kottar Postoffice \nKambolam Road, \nNear Railway Station Road \nKottar 629002\nKanniyakumari, Tamilanadu\n\nFrom - Ss Jewellery Collection\n8884667162"
+  },
+  {
+    "input": "Name Renu javat\nAddress flat number A-4 403 Dwarkadham colony airport road\nJai road karond\nBhopal Madhya Pradesh\nPin code 462001\nPhone number +91 79746 97810\nFrom RK Shop\nPhone number 8115135337",
+    "output": "Mob - +91 79746 97810\nTo - Renu Javat\nAddress Flat Number A-4 403 Dwarkadham Colony Airport Road\nJai Road Karond\nBhopal Madhya Pradesh\nPin Code 462001\n\nFrom - Rk Shop\nPhone Number 8115135337"
+  },
+  {
+    "input": "From, \nAbbas Ali Kraftnix, 229 Khatiwala Tank, Neha apartment, Saify Nagar main road, (opp. Baskin Robbins) Indore-452014 Madhya Pradesh\nMob: 9584693938\nFrom\nFarida bootwala \n9375155252",
+    "output": "Mob – 9584693938\nTo - Abbas Ali Kraftnix, 229 Khatiwala Tank, Neha Apartment, Saify Nagar Main Road, (Opp. Baskin Robbins) Indore-452014 Madhya Pradesh\n\nFrom - Farida Bootwala \n9375155252"
+  },
+  {
+    "input": "Heena chetan ved\n82 B krishnashraya\nAdarsh nagar\n4 lane by RTO\nJalgaon pin coad 425002\n9422223990 📱\nFrom\nDEEPANKU CREATION.\n7987235500",
+    "output": "Mob - 9422223990\nTo - Heena Chetan Ved\n82 B Krishnashraya\nAdarsh Nagar\n4 Lane By Rto\nJalgaon Pin Coad 425002\n\nFrom - Deepanku Creation.\n7987235500"
+  },
+  {
+    "input": "To \nGeetha Balakumar \nNew LIG 62 , \nHousing board sector, \nOpposite to primary health care centre,\nAnnanagar , \nMadurai 625020\n\nPhone number: 9944274478\n\nFrom \nMythrayee \n9840322745.\n\nSize: 2.6",
+    "output": "Mob - 9944274478\nTo - Geetha Balakumar \nNew Lig 62, Housing Board Sector, \nOpposite To Primary Health Care Centre,\nAnnanagar , \nMadurai 625020\n\nFrom - Mythrayee \n9840322745."
+  },
+  {
+    "input": "Address:- \nZULEKHA HUNAID\n36/1' HASANJI 'near new jain mandir Khara Kua\nDada Bhai Nooroji marg\nUjjain (MP) ..PIN.456006\nFrom;; Style Hub Grp\nMob;  9479513118",
+    "output": "To - Zulekha Hunaid\n36/1' Hasanji 'Near New Jain Mandir Khara Kua\nDada Bhai Nooroji Marg\nUjjain (Mp) \nPin.456006\n\nFrom - Style Hub Grp\nMob – 9479513118"
+  },
+  {
+    "input": "Name:G.Assanna\n\nAdress:D 2 North gate east road\nFarhana flats anna salai\nNagapattinnam \n\nPincode:611001\n\nMobile number:9944932713\n\nFrom: sapphireboutiques:8111033166",
+    "output": "Mob - 9944932713\nTo - G.Assanna\nAdress:D 2 North Gate East Road\nFarhana Flats Anna Salai\nNagapattinnam \nPincode:611001\n\nFrom - Sapphireboutiques\n8111033166"
+  },
+  {
+    "input": "Name - Umesh Garg\nAddress - A18/19 surya nagar saket behind LIC meerut\nPin code - 250001\nMobile number - 9557617687\n\n\nFrom - Ritika Mittal\n7017875559",
+    "output": "Mob - 9557617687\nTo - Umesh Garg\nAddress - A18/19 Surya Nagar Saket Behind Lic Meerut\nPin Code - 250001\n\nFrom - Ritika Mittal\n7017875559"
+  },
+  {
+    "input": "Tasneem hakimuddin bari wala\nSaify pura nai aabadi banswada rajasthan..\nPin code..327001\nMob..9649344363",
+    "output": "Mob - 9649344363\nTo - Tasneem Hakimuddin Bari Wala\nSaify Pura Nai Aabadi Banswada Rajasthan..\nPin Code..327001"
+  },
+  {
+    "input": "To,\nZahra nalwala\n506/5th husami building, Amakin society, 3rd phase(Wing),Vikas naka area, noorani road, Landmark:- Global estate company,  Dombivali east, Maharashtra 421201\n8169600528 /902959114\n\nFrom -Fatema husain. \n9673578452",
+    "output": "Mob - 8169600528, 902959114\nTo - Zahra Nalwala\n506/5th Husami Building, Amakin Society, 3rd Phase(Wing),Vikas Naka Area, Noorani Road, Landmark:- Global Estate Company,  Dombivali East, Maharashtra 421201\n\nFrom -Fatema Husain. \n9673578452"
+  },
+  {
+    "input": "Banu Saifuddin Janglawala \n Mava wali Gali No 6 \nNear Badri Hall \nMuslim colony \nBanswara (Rajasthan)\npin code 327001\n+91 96804 45298",
+    "output": "Mob - +91 96804 45298\nTo - Banu Saifuddin Janglawala \n Mava Wali Gali No 6 \nNear Badri Hall \nMuslim Colony \nBanswara (Rajasthan)\nPin Code 327001"
+  },
+  {
+    "input": "2.6 size sir \n\nTo\nB. Ramya\nH. No 17-1-391/c/30\nKrishnanagar \nNear autometer office \nSaidabad. \nHyderabad \nTelangana -500059\nPh. No 7989514174\n\nFrom\nAnvi-akki collections\n9505833656",
+    "output": "Mob - 7989514174\nTo - B. Ramya\nH. No 17-1-391/C/30\nKrishnanagar, Near Autometer Office \nSaidabad, Hyderabad \nTelangana -500059\n\nFrom - Anvi-Akki Collections\n9505833656"
+  },
+  {
+    "input": "*full Name :-lokesh mehta\n*Address :-gadiya gli\n*Landmark :-rajmahl palace\n*City :-brisadri ...Distt chittorgarh\n*State :-rajasthan\n*Pincode :-312403\n*Alternate number :- 9166343790\nFrom  alka 7976240534",
+    "output": "Mob - 9166343790\nTo - Lokesh Mehta\nAddress :-Gadiya Gli\nLandmark :-Rajmahl Palace\nCity :-Brisadri, Distt Chittorgarh\nState :-Rajasthan\nPincode :-312403\n\nFrom  - Alka\n7976240534"
+  },
+  {
+    "input": "Size 24”\n\nTo\nAjay Jason\n3E , The Celestine Citadel \nPaneer Nagar\nMogappair West \n(Opp. To Mangal Eri Park)\nChennai 600037\nPh. 9952555187\n\nFrom\nRoda Pickies\n9344089676",
+    "output": "Mob - 9952555187\nTo - Ajay Jason\n3e , The Celestine Citadel \nPaneer Nagar\nMogappair West \n(Opp. To Mangal Eri Park)\nChennai 600037\n\nFrom - Roda Pickies\n9344089676"
+  },
+  {
+    "input": "sherebano husain\nPhone Number -9405519414\nAlternate Phone Number-9325183879\nHouse Number : plot no.1 ,SMB hardware\nCity -arvi\nState -maharashtra\nPincode-442201\nLandmark-opposite to model high school\n\n\nFrom C.C JEWELLS\n8754211842",
+    "output": "Mob - 9405519414, 9325183879\nTo - Sherebano Husain\nHouse Number : Plot No.1 ,Smb Hardware\nCity -Arvi\nState -Maharashtra\nPincode-442201\nLandmark-Opposite To Model High School\n\nFrom - C.C Jewells\n8754211842"
+  },
+  {
+    "input": "Tahera Jamali.\nTaheri Cloth Centre.\nSaify Marg,\nBhohra Masjid.\nAmravati.(M.S)\n444601.\nMbl.9404105352\n\nFrom:-c.c jewells\n8754211842",
+    "output": "Mob - 9404105352\nTo - Tahera Jamali.\nTaheri Cloth Centre.\nSaify Marg,\nBhohra Masjid.\nAmravati.(M.S)\n444601.\n\nFrom - C.C Jewells\n8754211842"
+  },
+  {
+    "input": "Sandhya agrawal W/O Sunil Kumar Gupta E26-27 Mohan nagar  Narayan lal wali gali Hindaun city Diss. Karauli Rajasthan pin code 322230\n8949908483\nFrom rachna mittal \n9549436364",
+    "output": "Mob - 8949908483\nTo - Sandhya Agrawal W/O Sunil Kumar Gupta E26-27 Mohan Nagar  Narayan Lal Wali Gali Hindaun City Diss. Karauli Rajasthan Pin Code 322230\n\nFrom - Rachna Mittal \n9549436364"
+  },
+  {
+    "input": "Shaji M.M\nMlakuzhiyil House\nPullurampara P.O\nThiruvampady \nCalicut, Kerala\nPIN: 673603\nMob: 9495030310\n\nFrom\nTejaswi\n8142778877",
+    "output": "Mob – 9495030310\nTo - Shaji M.M\nMlakuzhiyil House\nPullurampara P.O\nThiruvampady \nCalicut, Kerala\nPin: 673603\n\nFrom - Tejaswi\n8142778877"
+  },
+  {
+    "input": "Pushpa Deval\nShree Karni House\nNarbada Garden Road Nali K Balaji\nVikas Nagar\nKuchaman City (Nagaur)\nzip code 341508\nMo: 7014117683\nFrom Asma\nMo.9265662525",
+    "output": "Mob - 7014117683\nTo - Pushpa Deval\nShree Karni House\nNarbada Garden Road Nali K Balaji\nVikas Nagar\nKuchaman City (Nagaur)\nZip Code 341508\n\nFrom - Asma\nMo.9265662525"
+  },
+  {
+    "input": "TO\nAbdul hannan palace\nhanif bhai\n9377102993\nPlot no 413/A\nParbhudas talav\nNear fatima masjid\nPin cod 364001\nGujrat bhavnagr\n\n\nFrom saira hanif gudda\nM.8733887274\nBook",
+    "output": "Mob - 9377102993\nTo - Abdul Hannan Palace\nHanif Bhai\nPlot No 413/A\nParbhudas Talav\nNear Fatima Masjid\nPin Cod 364001\nGujrat Bhavnagr\n\nFrom - Saira Hanif Gudda\nM.8733887274"
+  },
+  {
+    "input": "Arif Ali\nH no.6-3-1242/171\nMs.maqta opp Raj bhawan khairtabad Hyderabad pin code 500082 ph no 9849302547",
+    "output": "Mob - 9849302547\nTo - Arif Ali\nH No.6-3-1242/171\nMs.Maqta Opp Raj Bhawan Khairtabad Hyderabad Pin Code 500082"
+  },
+  {
+    "input": "to\nruqaoiyya alihusain hathiyari\npragati society\najmeri mohlla\njuni chali k piche\nchhotaudepur( guj)-391165\nmob num:-8770299055",
+    "output": "Mob - 8770299055\nTo - Ruqaoiyya Alihusain Hathiyari\nPragati Society\nAjmeri Mohlla\nJuni Chali K Piche\nChhotaudepur( Guj)-391165"
+  },
+  {
+    "input": "Munazza antulay\nDudhwala complex \nB-wing 7floor flatno2 ,b-702\nBlassis road \nOpposite city center mall \nMumbai central\nMumbai 400008.\nMob-9930224929\nFrom,aamir-9920094684",
+    "output": "Mob - 9930224929\nTo - Munazza Antulay\nDudhwala Complex \nB-Wing 7floor Flatno2 ,B-702\nBlassis Road \nOpposite City Center Mall \nMumbai Central\nMumbai 400008.\n\nFrom – Aamir\n9920094684"
+  },
+  {
+    "input": "Nishat Anjum\n9767847486\n\n Plot no 65 sarve number 75 Ansar colony near quba masjid Malegaon district nashik\nMaharashtra \n 423203\nFrom zhara collection 9977652678",
+    "output": "Mob - 9767847486\nTo - Nishat Anjum\n Plot No 65 Sarve Number 75 Ansar Colony Near Quba Masjid Malegaon District Nashik\nMaharashtra \n 423203\n\nFrom - Zhara Collection\n9977652678"
+  },
+  {
+    "input": "To\nSirisha\nSkandan Agencies \nBellary road 2nd cross \nA G road  near Fertilizers shop \nChallakere 577522\nMobile 9845420973\n\nFrom\nDivya Kedar\n7019276619",
+    "output": "Mobile - 9845420973\nTo - Sirisha\nSkandan Agencies \nBellary Road 2nd Cross \nA G Road  Near Fertilizers Shop \nChallakere 577522\n\nFrom - Divya Kedar\n7019276619"
+  },
+  {
+    "input": "A. T. Kapasi\nJamangar road, B/h  Gandhi society, \nParashar Park -2, \nopposite. Maheshwari provisional store \nRajkot -360006\n7045365710\nFrom - Arva Dalal",
+    "output": "Mob - 7045365710\nTo - A. T. Kapasi\nJamangar Road, B/H  Gandhi Society, \nParashar Park -2, \nOpposite. Maheshwari Provisional Store \nRajkot -360006\n\nFrom - Arva Dalal"
+  },
+  {
+    "input": "Ummehaani Bagasrawala,\n1403,\nSterling Tower,\nNext to Mazagaon Court,\nNesbit Road,\nMazagaon,\nMumbai - 400010\n9820090933",
+    "output": "To - Ummehaani Bagasrawala,\n1403,\nSterling Tower,\nNext To Mazagaon Court,\nNesbit Road,\nMazagaon,\nMumbai - 400010\n9820090933"
+  },
+  {
+    "input": "Tahira motiwala\n20 kharol colony shiv badi near shenaaz hussain beauty clinic\nUdaipur\n Rajasthan \n313001\n9001569252\nFrom; Naqiya collection\nMo:9979203524",
+    "output": "Mob – 9001569252\nTo - Tahira Motiwala\n20 Kharol Colony Shiv Badi Near Shenaaz Hussain Beauty Clinic\nUdaipur\n Rajasthan \n313001\n\nFrom - Naqiya Collection\nMo:9979203524"
+  },
+  {
+    "input": "Priyanka V Kukreja \nSAI JYOTI\n14, 5th main \nT P VENUGOPAL LAYOUT \nSBI COLONY \nANANDNAGAR \nHEBBAL \nBangalore 560024 \n9964185678\nFrom Tasneem\n932500815",
+    "output": "Mob - 9964185678\nTo - Priyanka V Kukreja \nSai Jyoti, 14, 5th Main \nT P Venugopal Layout, Sbi Colony \nAnandnagar, Hebbal \nBangalore 560024 \n\nFrom - Tasneem\n932500815"
+  }
+]
